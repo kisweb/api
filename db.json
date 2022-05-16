@@ -9,6 +9,9 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+   "name": "Seydou Diallo",
+    "profession": "Commerçant",
+    "image": "https://avatars.githubusercontent.com/u/91768858?s=40&v=4",
+    "bio": "Travailleur, courtois et respecteux"
   }
 }
